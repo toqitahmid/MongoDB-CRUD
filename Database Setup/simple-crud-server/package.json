@@ -11,8 +11,13 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@heroui/react": "^3.2.1",
+    "@heroui/styles": "^3.2.1",
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "mongodb": "^7.3.0"
+  },
+  "devDependencies": {
+    "@gravity-ui/icons": "^2.18.0"
   }
 }
